@@ -1,9 +1,8 @@
 
 Getting started in terminal notes:
-1) $ git clone https://github.com/georgetown-analytics/
-XBUS-502-01.Data_Sources_Storage # clone the class repo
-$ cd sql-tutorial # change directories to newly cloned repo
-$ jupyter notebook IntroDBWorkshop.ipynb # start the jupyter server
+1) $ git clone https://github.com/georgetown-analytics/XBUS-502-01.Data_Sources_Storage # clone the class repo
+2) $ cd sql-tutorial # change directories to newly cloned repo
+3) $ jupyter notebook IntroDBWorkshop.ipynb # start the jupyter server
 
 
 
